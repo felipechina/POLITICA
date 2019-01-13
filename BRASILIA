@@ -1,0 +1,21 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="XXX LINK LOGO XXX" pltv-name="CINEMA AZ" pltv-description="XXX DESCRIÇÃO DA LISTA XXX" pltv-cover="XXX CAPA DA LISTA XXX" pltv-author="XXX AUTOR DA LISTA XXX" pltv-site="XXX SITE CASO HOUVER XXX" pltv-email="XXX E-MAIL XXX"
+
+
+#EXTINF:-1 tvg-logo="XXXX LINK DO LOGO DO CANAL XXX" group-title="FILMES" pltv-subgroup="MARVEL STUDIO", CAPITAO AMERICA O PRIMEIRO VINGADOR 2011
+https://photos.app.goo.gl/SVaTkztqYFL8zwbY6
+
+#EXTINF:-1 tvg-logo="XXXX LINK DO LOGO DO CANAL XXX" group-title="FILMES" pltv-subgroup="MARVEL STUDIO", CAPITAO AMERICA SOLDADO INVERNAL 2014
+https://photos.app.goo.gl/gwfmys34pf8zdAzH9
+
+#EXTINF:-1 tvg-logo="XXXX LINK DO LOGO DO CANAL XXX" group-title="FILMES" pltv-subgroup="MARVEL STUDIO", CAPITAO AMERICA GUERRA CIVIL 2016
+https://photos.app.goo.gl/sQCUbBZQvQbG8HTaA
+
+#EXTINF:-1 tvg-logo="XXXX LINK DO LOGO DO CANAL XXX" group-title="FILMES" pltv-subgroup="MARVEL STUDIO", DOUTOR ESTRANHO 2016
+https://photos.app.goo.gl/T1g1QCuhfSweaN8s9
+
+#EXTINF:-1 tvg-logo="XXXX LINK DO LOGO DO CANAL XXX" group-title="FILMES" pltv-subgroup="MARVEL STUDIO", OS VINGADORES GUERRA INFINITA 2018
+https://photos.app.goo.gl/HD7NvqnodFSxfrnU6
+
+
+
